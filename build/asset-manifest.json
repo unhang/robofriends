@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/unhang/robos.git/static/css/main.bfe2f146.chunk.css",
+    "main.js": "/unhang/robos.git/static/js/main.09e1a799.chunk.js",
+    "main.js.map": "/unhang/robos.git/static/js/main.09e1a799.chunk.js.map",
+    "runtime-main.js": "/unhang/robos.git/static/js/runtime-main.cdd4bbe2.js",
+    "runtime-main.js.map": "/unhang/robos.git/static/js/runtime-main.cdd4bbe2.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/unhang/robos.git/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.39aa9798.chunk.js": "/unhang/robos.git/static/js/2.39aa9798.chunk.js",
+    "static/js/2.39aa9798.chunk.js.map": "/unhang/robos.git/static/js/2.39aa9798.chunk.js.map",
+    "index.html": "/unhang/robos.git/index.html",
+    "precache-manifest.48f0eb08dd4fed3716d7dd3b0f916416.js": "/unhang/robos.git/precache-manifest.48f0eb08dd4fed3716d7dd3b0f916416.js",
+    "service-worker.js": "/unhang/robos.git/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/unhang/robos.git/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.bfe2f146.chunk.css.map": "/unhang/robos.git/static/css/main.bfe2f146.chunk.css.map",
+    "static/media/App.css": "/unhang/robos.git/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdd4bbe2.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.39aa9798.chunk.js",
+    "static/css/main.bfe2f146.chunk.css",
+    "static/js/main.09e1a799.chunk.js"
+  ]
+}
